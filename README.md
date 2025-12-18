@@ -1,4 +1,4 @@
-# 📌 Sistema CRUD en Python
+# Sistema CRUD en Python
 
 Proyecto básico de consola en Python que implementa un sistema CRUD
 (Crear, Leer, Actualizar y Eliminar registros).
